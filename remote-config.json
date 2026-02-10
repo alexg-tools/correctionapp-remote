@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+
+  "info_line": "Version bêta – corrections limitées",
+  "link_word": "",
+  "link_url": "",
+
+  "version_label": "V1.0 beta",
+  "max_corrections_per_day": 20,
+  "unit_label": "corrections / jour"
+}

@@ -6,7 +6,7 @@
   "link_url": "https://example.com",
 
   "version_label": "V1.0 beta",
-  "max_corrections_per_day": 10,
+  "max_corrections_per_day": 1,
   "unit_label": "corrections / jour",
 
   "marquee_pixels_per_second": 55,

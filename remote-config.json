@@ -6,10 +6,9 @@
   "link_url": "https://example.com",
 
   "version_label": "V1.0 beta",
-  "max_corrections_per_day": 1,
+  "MaxCorrectionsPerDay": 10,
   "unit_label": "corrections / jour",
 
   "marquee_pixels_per_second": 55,
-
   "limit_blink_ms": 500
 }

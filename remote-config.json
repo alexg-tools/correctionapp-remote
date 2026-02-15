@@ -1,8 +1,8 @@
 {
   "enabled": true,
 
-  "info_line": "Survolez les corrections pour voir le détail. Nouvelle version disponible : cliquez ici",
-  "link_word": "ici",
+  "info_line": "Version beta — merci de signaler les bugs par mail, 10 corrections gratuites par jour pendant la beta",
+  "link_word": "",
   "link_url": "https://example.com",
 
   "version_label": "V1.0 beta",
